@@ -4,4 +4,8 @@ Read through as Branch created
 =======
 Read through
 This file represents changes happening soon..
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
+=======
+third commit
+>>>>>>> 7b7b54fd710e86ba13e3b11618e69eb89c29cfa7
