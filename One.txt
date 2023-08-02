@@ -1,1 +1,27 @@
+<<<<<<< Updated upstream
 One - 1
+=======
+One - 1 666
+
+Addd jrfghfdjg
+
+hello
+
+
+1
+
+
+
+
+Hiiii
+Hey ya@!!!!1
+
+<<<<<<< HEAD
+
+Changes made in main branch supppose to be merged
+
+In LocalSSS
+=======
+Changes made in main branch supppose to be merged
+>>>>>>> 95a761c681ff5dbd969cc936d5b8993d1a1148f9
+>>>>>>> Stashed changes
